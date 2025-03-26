@@ -1,3 +1,4 @@
+// Quickfind屬於一種貪婪演算法，它是一種簡單的方法，但是效率不高
 public class QuickfindUF {
     // private 是只有在這個 class 裡面可以使用 int[] id是一個陣列
     private int[] id;
